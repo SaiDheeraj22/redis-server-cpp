@@ -1,0 +1,5 @@
+build/
+my_redis_server
+*.o
+*.out
+dump.my_rdb
